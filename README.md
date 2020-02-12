@@ -1,2 +1,0 @@
-# se
-Software Engineering
